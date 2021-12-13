@@ -1,3 +1,7 @@
+# Project specific outputs
+client
+server
+
 # Prerequisites
 *.d
 
